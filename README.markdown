@@ -16,7 +16,8 @@
 ## Instalação
 
 1. cd ~
-2. git clone git@github.com:evanmsanders/dotvim.git ~/.vim
+2. git clone git@github.com:didijudo/dotvim.git ~/.vim
+ou git clone http://github.com/didijudo/dotvim.git ~/.vim
 3. ln -s ~/.vim/vimrc ~/.vimrc
 4. cd ~/.vim
 5. git submodule init
