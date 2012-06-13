@@ -1,7 +1,7 @@
  Evan M. Sanders : Custom Vim Config
  Alterações feitas por
 #Diego Andrade
-## List of Plugins
+## Lista de Plugins
 
 1. Solarized
 2. SuperTab
@@ -13,16 +13,16 @@
 8. Surround
 9. CSSColor
 
-## Installation
+## Instalação
 
 1. cd ~
 2. git clone git@github.com:evanmsanders/dotvim.git ~/.vim
 3. ln -s ~/.vim/vimrc ~/.vimrc
-4. cd ~.vim
+4. cd ~/.vim
 5. git submodule init
 6. git submodule update
 
-## Upgrading Plugin Bundles
+## Atualizando Plugins recursivamente
 
 1. cd ~/.vim
 2. git submodule foreach git pull origin master
