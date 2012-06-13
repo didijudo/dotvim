@@ -1,6 +1,9 @@
  Evan M. Sanders : Custom Vim Config
+
  Alterações feitas por
+
 #Diego Andrade
+
 ## Lista de Plugins
 
 1. Solarized
